@@ -1,3 +1,4 @@
+autor: BlackE.
 Grabar segunda version
 
 create table external ventas(
